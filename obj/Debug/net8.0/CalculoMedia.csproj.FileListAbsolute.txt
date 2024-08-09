@@ -1,0 +1,14 @@
+C:\ProjetosGit\Basicos\CalculoMedia\bin\Debug\net8.0\CalculoMedia.exe
+C:\ProjetosGit\Basicos\CalculoMedia\bin\Debug\net8.0\CalculoMedia.deps.json
+C:\ProjetosGit\Basicos\CalculoMedia\bin\Debug\net8.0\CalculoMedia.runtimeconfig.json
+C:\ProjetosGit\Basicos\CalculoMedia\bin\Debug\net8.0\CalculoMedia.dll
+C:\ProjetosGit\Basicos\CalculoMedia\bin\Debug\net8.0\CalculoMedia.pdb
+C:\ProjetosGit\Basicos\CalculoMedia\obj\Debug\net8.0\CalculoMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosGit\Basicos\CalculoMedia\obj\Debug\net8.0\CalculoMedia.AssemblyInfoInputs.cache
+C:\ProjetosGit\Basicos\CalculoMedia\obj\Debug\net8.0\CalculoMedia.AssemblyInfo.cs
+C:\ProjetosGit\Basicos\CalculoMedia\obj\Debug\net8.0\CalculoMedia.csproj.CoreCompileInputs.cache
+C:\ProjetosGit\Basicos\CalculoMedia\obj\Debug\net8.0\CalculoMedia.dll
+C:\ProjetosGit\Basicos\CalculoMedia\obj\Debug\net8.0\refint\CalculoMedia.dll
+C:\ProjetosGit\Basicos\CalculoMedia\obj\Debug\net8.0\CalculoMedia.pdb
+C:\ProjetosGit\Basicos\CalculoMedia\obj\Debug\net8.0\CalculoMedia.genruntimeconfig.cache
+C:\ProjetosGit\Basicos\CalculoMedia\obj\Debug\net8.0\ref\CalculoMedia.dll
